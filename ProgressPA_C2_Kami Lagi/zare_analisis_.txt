@@ -1,7 +1,7 @@
 Tema : Pertanian
 
-Bisnis : KebunKu.id
-KebunKu adalah platform berbasis website yang dapat menghubungkan antara investor dan para petani dengan perhitungan 
+Bisnis : Zare.id
+Zare adalah platform berbasis website yang dapat menghubungkan antara investor dan para petani dengan perhitungan 
 bagi hasil yang akurat dan terkontrol. 
 
 Entitas :
@@ -20,7 +20,6 @@ Investor :
 - investor dapat melihat lokasi kebun
 - investor dapat memilih menu cara kerja, tentang kami, petaniku, kontak kami
 - investor dapat melihat hot invest
-- investor dapat memilih sistem invest yang tersedia ( sistem 1/2/3 )
 - investor dapat melihat penjelasan singka sistem yang dipilih (tombol detail)
 - investor dapat melihat statistik saat ini
 - investor dapat melihat testimoni
@@ -46,60 +45,3 @@ Analisis Non-Fungsional :
 - sistem adalah bagi hasil tergantung pemilihan sistem
 - 1 petani bisa banyak investor
 - 1 investor bisa banyak petani
-
-
-
-setelah Anda melakukan pembayaran harap konfirmasi:
-Format : [nama]_[jenis bibit]_[jumlah biaya]_[waktu transfer]_[bank tujuan]
-SMS: +628129587830 (Nisa) atau
-Email : info@igrow.asia
-*Mksimal konfirmasi adalah H+3, jika lewat dari itu maka transaksi akan dihapus (dianggap membatalkan pembelian)
-
-minimal invest :
-- menanggulangi minus
-- 
-
-#PetaniKita
-
-- investor bisa investasi
-> who? investor orang yang punnya duit, investor yang mempunya barang baku (menunjang)
-> what?
-investasi dengan 3 sistem
-bentuk investasi nya bisa duit, bisa barang, lahan
-> where? ke petani 
-> when? ketika ada investor dan ada campaign pengajuan petani.
-> why? menguntungkan, membantu petani
-> how? 
-investor menginvestasikan duit (ex: transfer)
-investor menginvestasikan barang (ex: kerjasama ke pabrik, kelompok tani, )
-profit semua ke duit
-==================================================================
-- bisa mengajukan petani
-> who? mediator (orang yang punya desa didikan/binaan, ketua kelompok tani, petani juga bisa menjadi mediator, petani kota, komunitas")
-> what? minta duit, lahannya bagaimana, informasi detail mengenai petani, apa saja operasional yang dibutuhkan dari petani.
-mengajukan sistem investasi (bagi hasil, pengadaan lahan, petani)
-> where? di website (ada form), get in touch, email, wa, sms, cod
-> when? mediator sudah menemukan desa binaan, petani, sudah masuk masa tanam
-> why? mediatornya mendapatkan profit, memperluas penjualan dan pengiriman
-> how?
-mediator bisa mengajukan saat masuk masa tanam atau pertengah
-mengisi form data
-memenuhi syarat dan ketentuan yang berlaku di kebunkku
-
-
-===========================================================
-- distribusi hasil panen
-
-> who? restoran, pasar, super market.
-> what? hasil panen.
-> where? restoran, pasar, super market.
-> when? setelah masa panen
-> why? harga langsung tangan pertama. kelualitas
-> how?
-pasar tradisional : langsung distribusi
-super market, restoran : perlu kerjasama, MoU proposal kerjasama 
-
-fungsional->estimasi
-- ada target perbulan
-- ada taget pertahun
-- 
