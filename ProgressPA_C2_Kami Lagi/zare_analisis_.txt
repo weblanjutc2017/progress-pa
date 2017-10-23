@@ -1,0 +1,47 @@
+Tema : Pertanian
+
+Bisnis : Zare.id
+Zare adalah platform berbasis website yang dapat menghubungkan antara investor dan para petani dengan perhitungan 
+bagi hasil yang akurat dan terkontrol. 
+
+Entitas :
+- Investor
+- Petani 
+- Admin (Mediator)
+
+Analisisi Fungsional : 
+Investor : 
+- Investor dapat melakukan daftar akun
+- investor dapat melakukan login ke akun
+- Investor dapat melihat daftar kebun yang akan di invest
+- Investor dapat mulai melakukan invest
+- investor melihat detail kebun yang akan di invest (gambar, nama benih, luas lahan,asuransi dll)
+- Investor dapat melihat deskripsi kebun
+- investor dapat melihat lokasi kebun
+- investor dapat memilih menu cara kerja, tentang kami, petaniku, kontak kami
+- investor dapat melihat hot invest
+- investor dapat melihat penjelasan singka sistem yang dipilih (tombol detail)
+- investor dapat melihat statistik saat ini
+- investor dapat melihat testimoni
+- investor dapat melihat peraturan sebelum invest ( syarat dan kondisi )
+- investor dapat menchecklist untuk verifikasi persetujuan peraturan sebelum invest
+- investor dapat memilih cara pembayaran
+- investor dapat melihat notifikasi (didashboard dia sama di email)
+- investor dapat melakukan ubah password
+- investor dapat melakukan konfirmasi pembayaran
+
+Admin
+- Admin dapat CRUD data petani
+- Admin dapat CRUD data investor
+- Admin dapat CRUD data investor
+- Admin dapat CRUD data kebun
+- Admin dapat CRUD data Thread
+
+Analisis Non-Fungsional :
+- platform berbasis website
+- bahasa pemrograman menggunakan php dengan database mysql
+- framework menggunakan laravel
+- metode pembayaran menggunakan verifikasi melalui sms/wa/email
+- sistem adalah bagi hasil tergantung pemilihan sistem
+- 1 petani bisa banyak investor
+- 1 investor bisa banyak petani
