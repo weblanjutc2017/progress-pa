@@ -1,8 +1,0 @@
-web kami bertemakan jadwal perilisan film
-dengan inti web sebagai berikut
-	jadwal rilis film
-	forum untuk berdiskusi dengan pengguna lain
-	forum dapat digunakan ketika telah login sebagai user
-aktor  dari web kami adalah user dan admin
-user dapat berdiskusi di dalam forum atau memberikan komentar mengenai film
-admin memasukan post post baru
