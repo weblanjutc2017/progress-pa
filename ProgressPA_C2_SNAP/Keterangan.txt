@@ -1,2 +1,7 @@
+Kelas	: C2
+Kel	: SNAP
+Anggota	: Erlina Cahyani (11526)
+	  Rizki maida O.S
+
 pada reservasi, akan bisa dicancel jika maksimal 2 jam sebelum waktu reservasi.
 jika sudah kurang dari 2 jam, maka akan otomatis tidak ada button tersebut.
